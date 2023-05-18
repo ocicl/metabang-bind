@@ -1,0 +1,9 @@
+* metabang-bind
+
+bind is let and much much more
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/metabang-bind.git |
+| commit  | 0819642                                         |
+| systems | metabang-bind                                   |
+|---------+-------------------------------------------------|
