@@ -4,7 +4,7 @@ bind is let and much much more
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/gwkkwg/metabang-bind.git |
-| commit  | 0819642                                         |
+| commit  | af3f67d                                         |
 | systems | metabang-bind                                   |
 |---------+-------------------------------------------------|
   
